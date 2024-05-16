@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amids! <br/>An ECE graduate pursuing entry-level positions in network engineering 
+<h1>Hi, I'm Juan! <br/>An ECE graduate pursuing entry-level positions in network engineering 
 
 <h2>👨‍💻 Packet Tracer Labs:</h2>
 
@@ -6,7 +6,7 @@
   - insert github link here
 
 
-<h2>👨‍💻 Active Directory Labs:</h2>
+<h2>👨‍💻 Active Directory Labs (maybe?):</h2>
 
 - <b>Active Directory Set Up</b>
   - insert github link here
