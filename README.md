@@ -10,7 +10,12 @@
 
 - <b>Active Directory Set Up</b>
   - insert github link here
- 
+
+<h2>👨‍💻 Active Directory Labs (maybe?):</h2>
+
+- <b>🤖 Network Automation: </b>
+  - insert github link here
+  
 <h2>📜 Licenses and Certifications: </h2>
 
 - PRC Licensed Electronics Engineer [ECE] (October 2023)
