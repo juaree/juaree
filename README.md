@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amids! <br/>An ECE graduate pursuing entry-level positions in network engineering
+<h1>Hi, I'm Amids! <br/>An ECE graduate pursuing entry-level positions in network engineering 
 
 <h2>👨‍💻 Packet Tracer Labs:</h2>
 
@@ -13,8 +13,9 @@
  
 <h2>📜 Licenses and Certifications: </h2>
 
-- PRC Licensed Electronics Engineer (October 2023)
-- PRC Licensed Electronics Technician (October 2023)
+- PRC Licensed Electronics Engineer [ECE] (October 2023)
+- PRC Licensed Electronics Technician [ECT] (October 2023)
+- Cisco Certified Network Associate [CCNA 200 - 301] (SOON)
 
 
 
