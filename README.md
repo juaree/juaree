@@ -11,9 +11,9 @@
 - <b>Active Directory Set Up</b>
   - insert github link here
 
-<h2>👨‍💻 Active Directory Labs (maybe?):</h2>
+<h2>🤖 Network Automation:</h2>
 
-- <b>🤖 Network Automation: </b>
+- <b>Python: </b>
   - insert github link here
   
 <h2>📜 Licenses and Certifications: </h2>
